@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="761cf4b9-45e4-42d0-9572-c46cb9f93845" name="Changes" comment="init: VariablesExercices.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VariablesExercices.py" beforeDir="false" afterPath="$PROJECT_DIR$/VariablesExercices.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720964022570</updated>
-      <workItem from="1720964023932" duration="827000" />
+      <workItem from="1720964023932" duration="1841000" />
     </task>
     <task id="LOCAL-00001" summary="init: VariablesExercices.py">
       <option name="closed" value="true" />
@@ -90,7 +91,31 @@
       <option name="project" value="LOCAL" />
       <updated>1720964651656</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init: VariablesExercices.py">
+      <option name="closed" value="true" />
+      <created>1720964861839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720964861839</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init: VariablesExercices.py">
+      <option name="closed" value="true" />
+      <created>1720964886026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720964886026</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init: VariablesExercices.py">
+      <option name="closed" value="true" />
+      <created>1720964893585</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720964893585</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +126,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="init: VariablesExercices.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Fondamentaux_Variables$VariablesExercices.coverage" NAME="VariablesExercices Coverage Results" MODIFIED="1720964626430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Fondamentaux_Variables$VariablesExercices.coverage" NAME="VariablesExercices Coverage Results" MODIFIED="1720965860330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

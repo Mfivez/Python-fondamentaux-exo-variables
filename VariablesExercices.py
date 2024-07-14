@@ -14,13 +14,7 @@ print("Valeur de age:", age)
 print("Valeur de nom:", nom)
 print("Valeur de prix:", prix, end="\n\n")
 
-# 3. Affichage des références mémoire avant modification
-print("### Affichage des Références Mémoire avant Modification ###")
-print("Référence mémoire de age avant modification:", id(age))
-print("Référence mémoire de nom avant modification:", id(nom))
-print("Référence mémoire de prix avant modification:", id(prix), end="\n\n")
-
-# Modification des variables
+#3. Modification des variables
 age = 26
 nom = "Bob"
 prix = 29.99
@@ -33,3 +27,11 @@ print("Nouveau type de nom:", type(nom))
 print("Nouvelle valeur de nom:", nom, end="\n\n")
 print("Nouveau type de prix:", type(prix))
 print("Nouvelle valeur de prix:", prix, end="\n\n")
+
+# 5. Modification de la variable age
+age = str(age)
+print("Nouveau type de age:", type(age), end="\n\n")
+
+# 6. Utilisez le input
+nombre = int(input("Entrez un nombre: "))
+print("Valeur de nombre:", nombre, end="\n\n")
