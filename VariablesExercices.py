@@ -33,9 +33,3 @@ print("Nouveau type de nom:", type(nom))
 print("Nouvelle valeur de nom:", nom, end="\n\n")
 print("Nouveau type de prix:", type(prix))
 print("Nouvelle valeur de prix:", prix, end="\n\n")
-
-# 5. Affichage des références mémoire après modification
-print("### Affichage des Références Mémoire après Modification ###")
-print("Référence mémoire de age après modification:", id(age))
-print("Référence mémoire de nom après modification:", id(nom))
-print("Référence mémoire de prix après modification:", id(prix))
